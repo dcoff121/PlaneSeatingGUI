@@ -234,7 +234,7 @@ public class PlaneSeatingGUI extends JFrame implements ActionListener {
 
         // 2. Set up the main window (JFrame)
         setTitle("Airline Seating Program");
-        setSize(550, 500); // Adjusted size for better layout
+        setSize(800, 500); // Adjusted size for better layout
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null); // Center the window
         setLayout(new BorderLayout(10, 10)); // Use BorderLayout with gaps
